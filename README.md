@@ -1,5 +1,5 @@
 # Opencore-Opencanopy-Themes
-Graphical User Interface for Opencanopy
+**Graphical User Interface for Opencanopy**
 
 
 First of all: I' am NOT affiliated in any way with "CD Projekt Red" or his subsidiaries.
@@ -7,6 +7,9 @@ First of all: I' am NOT affiliated in any way with "CD Projekt Red" or his subsi
 
 
 ![This is an image](https://github.com/canemdormienti/Opencore-Opencanopy-Themes/blob/main/CPK/Screenshots/Screenshot_Background_1/12205357.png)
+
+![This is an image]()
+
 
 
 ![This is an image](https://github.com/canemdormienti/Opencore-Opencanopy-Themes/blob/main/CPK/Screenshots/Screenshot_Background_1/12205448.png)
