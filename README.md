@@ -1,9 +1,11 @@
 # Opencore-Opencanopy-Themes
 **Graphical User Interface for Opencanopy**
 
+**Theme: CPK**
 
-First of all: I' am NOT affiliated in any way with "CD Projekt Red" or his subsidiaries.
 
+
+It works with OPENCORE 0.7.3 and 0.7.4 (updated to comply with the Flavours setting).
 
 
 ![This is an image](CPK/Screenshots/Screenshot_Background_1/12205357.png)
@@ -20,3 +22,5 @@ First of all: I' am NOT affiliated in any way with "CD Projekt Red" or his subsi
 
 
 The copyright and credits goes to the respective owners/designers of the logos, pictures, background images, icons and others elements used in this themes.
+
+I' am NOT affiliated in any way with "CD Projekt Red" or his subsidiaries.
