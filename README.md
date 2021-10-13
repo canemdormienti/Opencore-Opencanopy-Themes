@@ -27,9 +27,20 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 **HOW TO INSTALL:** 
 
-1- Download the ZIP archive or clone the git repository.
+1 - Download the ZIP archive or clone the git repository.
 
-2- 
+2 - Mount your EFI partition and open the EFI folder.
 
+3 - Go to /EFI/OC/Resources/Image/.
+
+4 - Create a folder named canemdormienti.
+
+5 - Inside that folder create another one named CPK.
+
+6 - It now looks like this: /EFI/OC/Resources/Image/canemdormienti/CPK.
+
+7 - Copy the .icns from the /Image/Resource folder from the downloaded archives and paste in the CPK folder.
+
+8 - 
 
 I' am NOT affiliated in any way with "CD Projekt Red" or his subsidiaries. The copyright and credits belongs to the respective owners/designers of the logos, pictures, background images, icons and other elements used in this themes.
