@@ -2,11 +2,12 @@
 **THEME: CPK**
 
 
-It can be used with OPENCORE 0.7.3 and 0.7.4 (updated to comply with the Flavours system).
+It can be used with **OpenCore 0.7.3 and 0.7.4** (updated to comply with the Flavours system).
 
 https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 
+ 
 
 ![This is an image](CPK/Screenshots/Screenshot_Background_1/12205357.png)
 
@@ -19,6 +20,10 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 ![This is an image](CPK/Screenshots/Screenshot_Background_1/12205439.png)
 
 ![This is an image](CPK/Screenshots/Screenshot_Background_1/12205448.png)
+
+
+
+
 
 **HOW TO INSTALL:** 
 
