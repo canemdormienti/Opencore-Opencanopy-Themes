@@ -56,6 +56,6 @@ Some of the backgrounds were taken from here:
  - https://www.this-is-cool.co.uk/the-science-fiction-art-of-andrew-collins/
  - https://www.this-is-cool.co.uk/?s=stefan+morrell
 
-The copyright and credits belongs to the respective owners/designers of the logos, pictures, background images, icons and other elements used in this themes. I' am NOT affiliated in any way with "CD Projekt Red" or his subsidiaries.
+ - >>The copyright and credits belongs to the respective owners/designers of the logos, pictures, background images, icons and other elements used in this themes. I' am NOT affiliated in any way with "CD Projekt Red" or his subsidiaries.<<
 
-Thank's too https://github.com/chris1111 for https://github.com/chris1111/OpenCanopy-Generator and https://github.com/chris1111/Background-Resizer. Those save A LOT of work...
+Thank's to https://github.com/chris1111 for https://github.com/chris1111/OpenCanopy-Generator and https://github.com/chris1111/Background-Resizer. Those save A LOT of work...
