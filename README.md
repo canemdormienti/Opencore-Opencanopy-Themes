@@ -33,20 +33,20 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 3 - Go to /EFI/OC/Resources/Image/.
 
-4 - Create a folder named canemdormienti.
+4 - Create a folder named **canemdormienti**.
 
-5 - Inside that folder create another one named CPK.
+5 - Inside that folder create another one named **CPK**.
 
 6 - It now looks like this: 
 
  - /EFI/OC/Resources/Image/Acidanthera/Chardonnay
  - /EFI/OC/Resources/Image/Acidanthera/GoldenGate
  - /EFI/OC/Resources/Image/Acidanthera/Syrah
- - /EFI/OC/Resources/Image/canemdormienti/**CPK**
+ - /EFI/OC/Resources/Image/**canemdormienti**/**CPK**
 
-7 - Copy the .icns from the downloaded archive >>> OpenCore-OpenCanopy-Themes-main/CPK/Resource/Image/*.icns and paste it in the newly created **CPK** folder. Those are the basic .icns for the theme to work correctly.
+7 - Copy the .icns from the downloaded archive >>> OpenCore-OpenCanopy-Themes-main/CPK/Resource/Image/*.icns and paste it in the newly created **CPK** folder. Those are the basic icns for the theme to work correctly.
 
-8 - Icns for use with the Flavour system are also included (macOS versions, Recovery, Time Machine, Windows versions, GNU/Linux Distros).
+8 - Icns for use with the Flavours system are also included (macOS versions, Recovery, Time Machine, GNU/Linux Distros, Windows versions).
 
 
 Some of the backgrounds were taken from here:
@@ -57,3 +57,5 @@ Some of the backgrounds were taken from here:
  - https://www.this-is-cool.co.uk/?s=stefan+morrell
 
 The copyright and credits belongs to the respective owners/designers of the logos, pictures, background images, icons and other elements used in this themes. I' am NOT affiliated in any way with "CD Projekt Red" or his subsidiaries.
+
+Thank's too https://github.com/chris1111 for https://github.com/chris1111/OpenCanopy-Generator and https://github.com/chris1111/Background-Resizer. Those save A LOT of work...
