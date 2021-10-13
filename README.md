@@ -37,9 +37,12 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 5 - Inside that folder create another one named CPK.
 
-6 - It now looks like this: /EFI/OC/Resources/Image/canemdormienti/CPK.
+6 - It now looks like this: 
 
-7 - Copy the .icns from the /Image/Resource folder from the downloaded archives and paste in the CPK folder.
+ - /EFI/OC/Resources/Image/canemdormienti/CPK
+ - /EFI/OC/Resources/Image/Acidanthera/Syrah
+
+7 - Copy the .icns from the downloaded zip: /OpenCore-OpenCanopy-Themes-main/CPK/Resource/Image/*.icns and paste in the CPK folder.
 
 8 - 
 
