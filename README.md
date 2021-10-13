@@ -39,11 +39,21 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 6 - It now looks like this: 
 
- - /EFI/OC/Resources/Image/canemdormienti/CPK
+ - /EFI/OC/Resources/Image/Acidanthera/Chardonnay
+ - /EFI/OC/Resources/Image/Acidanthera/GoldenGate
  - /EFI/OC/Resources/Image/Acidanthera/Syrah
+ - /EFI/OC/Resources/Image/canemdormienti/**CPK**
 
-7 - Copy the .icns from the downloaded zip: /OpenCore-OpenCanopy-Themes-main/CPK/Resource/Image/*.icns and paste in the CPK folder.
+7 - Copy the .icns from the downloaded archive >>> OpenCore-OpenCanopy-Themes-main/CPK/Resource/Image/*.icns and paste it in the newly created **CPK** folder. Those are the basic .icns for the theme to work correctly.
 
-8 - 
+8 - Icns for use with the Flavour system are also included (macOS versions, Recovery, Time Machine, Windows versions, GNU/Linux Distros).
 
-I' am NOT affiliated in any way with "CD Projekt Red" or his subsidiaries. The copyright and credits belongs to the respective owners/designers of the logos, pictures, background images, icons and other elements used in this themes.
+
+Some of the backgrounds were taken from here:
+
+ - https://www.this-is-cool.co.uk/josh-marlow-sci-fi-environment-artist/
+ - https://www.this-is-cool.co.uk/the-futuristic-3d-tech-art-of-amin-akhshi/
+ - https://www.this-is-cool.co.uk/the-science-fiction-art-of-andrew-collins/
+ - https://www.this-is-cool.co.uk/?s=stefan+morrell
+
+The copyright and credits belongs to the respective owners/designers of the logos, pictures, background images, icons and other elements used in this themes. I' am NOT affiliated in any way with "CD Projekt Red" or his subsidiaries.
