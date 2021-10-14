@@ -45,9 +45,14 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
  - /EFI/OC/Resources/Image/Acidanthera/GoldenGate
  - /EFI/OC/Resources/Image/Acidanthera/Syrah
  - /EFI/OC/Resources/Image/**canemdormienti/CPK**
+ 
 
 
-7 - Copy the .icns from /OpenCore-OpenCanopy-Themes-main/CPK/Resource/**Image/** and paste it in the newly created **CPK** folder. Those are the basic icns for the theme to work properly.
+![This is an image](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_3.png)
+
+
+
+7 - Copy the .icns from /OpenCore-OpenCanopy-Themes-main/CPK/Resource/**Image/** and paste it in the newly created **CPK** folder. Those are the basic system icns for the theme to work properly.
 
 
 8 - Now, open your Config.plist. Search and edit this parameters:
@@ -64,6 +69,7 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 
 ![This is an image](CPK/Previews-png/Previews-Config.plist/ScreenShot_2.png)
+
 
 9 - Save the Config.plist
 
