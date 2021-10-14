@@ -64,9 +64,11 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 ![This is an image](CPK/Previews-png/Previews-Config.plist/ScreenShot_2.png)
 
+
 In separate folders, are also included icns for use with the Flavours system (macOS versions, Recovery, Time Machine, GNU/Linux Distros, Windows versions). There are, too; icns to change the appearance of the USB installers.
 
-![This is an image]()
+
+![This is an image](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_2.png)
 
 
 Some of the backgrounds were taken from here:
