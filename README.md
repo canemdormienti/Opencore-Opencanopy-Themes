@@ -30,7 +30,9 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 1 - Download the ZIP archive or clone the git repository.
 
-2 - Mount your EFI partition and open the EFI folder.
+2 - Mount your EFI partition.
+
+- 2.5 - DO A **FULL BACKUP OF YOUR EFI FOLDER**. Preferably in an external medium.
 
 3 - Go to /EFI/OC/Resources/Image/.
 
@@ -73,13 +75,11 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 9 - Save the Config.plist
 
-10 - For those who want the Boot Chime activated: 
-
-- There is a file named **OCEFIAudio_VoiceOver_Boot.mp3** inside /OpenCore-OpenCanopy-Themes-main/CPK/Resource/**Audio/**, copy it and paste/replace into this directory /EFI/OC/Resources/**Audio/**
-
+10 - For those who want the Boot Chime activated:
 
 - https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-boot-chime-with-audiodxe
 
+- There is a file named **OCEFIAudio_VoiceOver_Boot.mp3** inside /OpenCore-OpenCanopy-Themes-main/CPK/Resource/**Audio/**, copy it and paste/replace into this directory /EFI/OC/Resources/**Audio/**
 
 
 11 - In separate folders, are also included icns for use with the Flavours system (macOS versions, Recovery, Time Machine, GNU/Linux Distros, Windows versions). There are, too; icns to change the appearance of the USB installers and Backgrounds for different display resolutions. 
