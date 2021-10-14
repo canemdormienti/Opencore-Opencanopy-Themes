@@ -2,7 +2,7 @@
 **THEME: CPK**
 
 
-It can be used with **OpenCore 0.7.3 and 0.7.4** (updated to comply with the Flavours system).
+This theme is intended for **OpenCore 0.7.3 and 0.7.4** (updated to comply with the Flavours system).
 
 https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
@@ -52,7 +52,8 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 8 - Now, open your Config.plist. Search and edit this parameters:
 
-**Misc >> Boot >>**
+**Misc** 
+    **Boot**
 
 - LauncherOption >> String >> **Full**
 - LauncherPath >> String >> **Default**
@@ -64,8 +65,12 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 ![This is an image](CPK/Previews-png/Previews-Config.plist/ScreenShot_2.png)
 
+9 - Save the Config.plist
 
-In separate folders, are also included icns for use with the Flavours system (macOS versions, Recovery, Time Machine, GNU/Linux Distros, Windows versions). There are, too; icns to change the appearance of the USB installers.
+10 - 
+
+
+In separate folders, are also included icns for use with the Flavours system (macOS versions, Recovery, Time Machine, GNU/Linux Distros, Windows versions). There are, too; icns to change the appearance of the USB installers and Backgrounds for different display resolutions. 
 
 
 ![This is an image](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_2.png)
