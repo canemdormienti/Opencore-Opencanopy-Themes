@@ -73,10 +73,16 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 9 - Save the Config.plist
 
-10 - 
+10 - For those who want the Boot Chime activated: 
+
+- There is a file named **OCEFIAudio_VoiceOver_Boot.mp3** inside /OpenCore-OpenCanopy-Themes-main/CPK/Resource/**Audio/**, copy it and paste/replace into this directory /EFI/OC/Resources/**Audio/**
 
 
-In separate folders, are also included icns for use with the Flavours system (macOS versions, Recovery, Time Machine, GNU/Linux Distros, Windows versions). There are, too; icns to change the appearance of the USB installers and Backgrounds for different display resolutions. 
+- https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-boot-chime-with-audiodxe
+
+
+
+11 - In separate folders, are also included icns for use with the Flavours system (macOS versions, Recovery, Time Machine, GNU/Linux Distros, Windows versions). There are, too; icns to change the appearance of the USB installers and Backgrounds for different display resolutions. 
 
 
 ![This is an image](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_2.png)
@@ -91,4 +97,4 @@ Some of the backgrounds were taken from here:
 
   >>The COPYRIGHT and CREDITS belongs to the respective owners/designers of the logos, pictures, background images, icons and other elements used in this themes. I' am NOT affiliated in any way with "CD Projekt Red" or his subsidiaries.
 
-Thank's to https://github.com/chris1111 for https://github.com/chris1111/OpenCanopy-Generator and https://github.com/chris1111/Background-Resizer. Those save A LOT of work...
+Thank's to https://github.com/chris1111 for OpenCanopy-Generator and Background-Resizer. Those save A LOT of work...
