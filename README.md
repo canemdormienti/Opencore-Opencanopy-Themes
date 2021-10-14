@@ -38,21 +38,35 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 5 - Inside that folder create another one named **CPK**.
 
-6 - It now looks like this: 
+6 - It now looks like this:
+
 
  - /EFI/OC/Resources/Image/Acidanthera/Chardonnay
  - /EFI/OC/Resources/Image/Acidanthera/GoldenGate
  - /EFI/OC/Resources/Image/Acidanthera/Syrah
  - /EFI/OC/Resources/Image/**canemdormienti**/**CPK**
- 
-
-![This is an image](CPK/Previews-png/Previews-Config.plist/ScreenShot_2.png)
 
 
 7 - Copy the .icns from the downloaded archive /OpenCore-OpenCanopy-Themes-main/CPK/Resource/Image/*.icns and paste it in the newly created **CPK** folder. Those are the basic icns for the theme to work properly.
 
 
-In separate folders, are also included icns for use with the Flavours system (macOS versions, Recovery, Time Machine, GNU/Linux Distros, Windows versions). There are, too; icns to change the appearance of the USB installers. 
+8 - Now, open your Config.plist. Search and edit this parameters:
+
+**Misc >> Boot >>**
+
+- LauncherOption >> String >> **Full**
+- LauncherPath >> String >> **Default**
+- PickerAttributes >> Number >> **144**
+- PickerMode >> String >> **External**
+- PickerVariant >> String >> **canemdormienti** **CPK**
+- ShowPicker >> Boolean >> **True**
+
+
+![This is an image](CPK/Previews-png/Previews-Config.plist/ScreenShot_2.png)
+
+In separate folders, are also included icns for use with the Flavours system (macOS versions, Recovery, Time Machine, GNU/Linux Distros, Windows versions). There are, too; icns to change the appearance of the USB installers.
+
+![This is an image]()
 
 
 Some of the backgrounds were taken from here:
