@@ -47,7 +47,7 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
  - /EFI/OC/Resources/Image/**canemdormienti**/**CPK**
 
 
-7 - Copy the .icns from the downloaded archive /OpenCore-OpenCanopy-Themes-main/CPK/Resource/Image/*.icns and paste it in the newly created **CPK** folder. Those are the basic icns for the theme to work properly.
+7 - Copy the .icns from /OpenCore-OpenCanopy-Themes-main/CPK/Resource/Image/***.icns** and paste it in the newly created **CPK** folder. Those are the basic icns for the theme to work properly.
 
 
 8 - Now, open your Config.plist. Search and edit this parameters:
