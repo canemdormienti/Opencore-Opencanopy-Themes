@@ -44,10 +44,10 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
  - /EFI/OC/Resources/Image/Acidanthera/Chardonnay
  - /EFI/OC/Resources/Image/Acidanthera/GoldenGate
  - /EFI/OC/Resources/Image/Acidanthera/Syrah
- - /EFI/OC/Resources/Image/**canemdormienti**/**CPK**
+ - /EFI/OC/Resources/Image/**canemdormienti/CPK**
 
 
-7 - Copy the .icns from /OpenCore-OpenCanopy-Themes-main/CPK/Resource/Image/***.icns** and paste it in the newly created **CPK** folder. Those are the basic icns for the theme to work properly.
+7 - Copy the .icns from /OpenCore-OpenCanopy-Themes-main/CPK/Resource/**Image/** and paste it in the newly created **CPK** folder. Those are the basic icns for the theme to work properly.
 
 
 8 - Now, open your Config.plist. Search and edit this parameters:
@@ -59,7 +59,7 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 - LauncherPath >> String >> **Default**
 - PickerAttributes >> Number >> **144**
 - PickerMode >> String >> **External**
-- PickerVariant >> String >> **canemdormienti** **CPK**
+- PickerVariant >> String >> **canemdormienti\CPK**
 - ShowPicker >> Boolean >> **True**
 
 
