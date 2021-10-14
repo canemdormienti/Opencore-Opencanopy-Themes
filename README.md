@@ -57,10 +57,15 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 7 - Copy the .icns from /OpenCore-OpenCanopy-Themes-main/CPK/Resource/**Image/** and paste it in the newly created **CPK** folder. Those are the basic system icns for the theme to work properly.
 
 
+![This is an image](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_4.png)
+
+![This is an image](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_5.png)
+
+
 8 - Now, open your Config.plist. Search and edit this parameters:
 
 **Misc** 
-    **Boot**
+    >**Boot**
 
 - LauncherOption >> String >> **Full**
 - LauncherPath >> String >> **Default**
@@ -80,6 +85,9 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 - https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-boot-chime-with-audiodxe
 
 - There is a file named **OCEFIAudio_VoiceOver_Boot.mp3** inside /OpenCore-OpenCanopy-Themes-main/CPK/Resource/**Audio/**, copy it and paste/replace into this directory /EFI/OC/Resources/**Audio/**
+
+
+![This is an image](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_6.png)
 
 
 11 - In separate folders, are also included icns for use with the Flavours system (macOS versions, Recovery, Time Machine, GNU/Linux Distros, Windows versions). There are, too; icns to change the appearance of the USB installers and Backgrounds for different display resolutions. 
