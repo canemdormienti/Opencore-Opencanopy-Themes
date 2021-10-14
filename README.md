@@ -7,6 +7,7 @@ It can be used with **OpenCore 0.7.3 and 0.7.4** (updated to comply with the Fla
 https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 
+
  
 
 ![This is an image](CPK/Screenshots/Screenshot_Background_1/12205357.png)
@@ -43,6 +44,9 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
  - /EFI/OC/Resources/Image/Acidanthera/GoldenGate
  - /EFI/OC/Resources/Image/Acidanthera/Syrah
  - /EFI/OC/Resources/Image/**canemdormienti**/**CPK**
+
+
+
 
 7 - Copy the .icns from the downloaded archive /OpenCore-OpenCanopy-Themes-main/CPK/Resource/Image/*.icns and paste it in the newly created **CPK** folder. Those are the basic icns for the theme to work correctly.
 
