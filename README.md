@@ -10,17 +10,17 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
  
 
-![This is an image](CPK/Screenshots/Screenshot_Background_1/12205357.png)
+![](CPK/Screenshots/Screenshot_Background_1/12205357.png)
 
-![This is an image](CPK/Screenshots/Screenshot_Background_1/12205402.png)
+![](CPK/Screenshots/Screenshot_Background_1/12205402.png)
 
-![This is an image](CPK/Screenshots/Screenshot_Background_1/12205421.png)
+![](CPK/Screenshots/Screenshot_Background_1/12205421.png)
 
-![This is an image](CPK/Screenshots/Screenshot_Background_1/12205427.png)
+![](CPK/Screenshots/Screenshot_Background_1/12205427.png)
 
-![This is an image](CPK/Screenshots/Screenshot_Background_1/12205439.png)
+![](CPK/Screenshots/Screenshot_Background_1/12205439.png)
 
-![This is an image](CPK/Screenshots/Screenshot_Background_1/12205448.png)
+![](CPK/Screenshots/Screenshot_Background_1/12205448.png)
 
 
 
@@ -28,41 +28,43 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 **HOW TO INSTALL:** 
 
-1 - Download the ZIP archive or clone the git repository.
+1 - Download the **CPK** file under **Releases**.
 
-2 - Mount your EFI partition.
+2 - Unzip it.
 
-- 2.5 - DO A **FULL BACKUP OF YOUR EFI FOLDER**. Preferably in an external medium.
+3 - Mount your EFI partition.
 
-3 - Go to /EFI/OC/Resources/Image/.
+4 - DO A **FULL BACKUP OF YOUR EFI FOLDER**. Preferably in an external medium.
 
-4 - Create a folder named **canemdormienti**.
+5 - Go to EFI/OC/Resources/**Image**.
 
-5 - Inside that folder create another one named **CPK**.
+6 - Create a folder named **canemdormienti**.
 
-6 - It now looks like this:
+7 - Inside that folder create another one named **CPK**.
+
+8 - It now looks like this:
 
 
  - /EFI/OC/Resources/Image/Acidanthera/Chardonnay
  - /EFI/OC/Resources/Image/Acidanthera/GoldenGate
  - /EFI/OC/Resources/Image/Acidanthera/Syrah
- - /EFI/OC/Resources/Image/**canemdormienti/CPK**
+ - /EFI/OC/Resources/**Image/**canemdormienti/CPK**
  
 
 
-![This is an image](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_3.png)
+![](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_3.png)
 
 
 
-7 - Copy the .icns from /OpenCore-OpenCanopy-Themes-main/CPK/Resource/**Image/** and paste it in the newly created **CPK** folder. Those are the basic system icns for the theme to work properly.
+9 - Copy the .icns from the extracted directory CPK/Resources/**Image/** and paste it in the newly created **CPK** folder. Those are the basic system icns for the theme to work properly.
 
 
-![This is an image](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_4.png)
+![](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_4.png)
 
-![This is an image](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_5.png)
+![](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_5.png)
 
 
-8 - Now, open your Config.plist. Search and edit this parameters:
+10 - Now, open your Config.plist. Search and edit this parameters:
 
 **Misc** 
     >**Boot**
@@ -75,25 +77,25 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 - ShowPicker >> Boolean >> **True**
 
 
-![This is an image](CPK/Previews-png/Previews-Config.plist/ScreenShot_2.png)
+![](CPK/Previews-png/Previews-Config.plist/ScreenShot_2.png)
 
 
-9 - Save the Config.plist
+11 - Save the Config.plist
 
-10 - For those who want the Boot Chime activated:
+12 - For those who want the Boot Chime activated:
 
 - https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-boot-chime-with-audiodxe
 
-- There is a file named **OCEFIAudio_VoiceOver_Boot.mp3** inside /OpenCore-OpenCanopy-Themes-main/CPK/Resource/**Audio/**, copy it and paste/replace into this directory /EFI/OC/Resources/**Audio/**
+- There is a file named **OCEFIAudio_VoiceOver_Boot.mp3** inside CPK/Resources/**Audio**, copy it and paste/replace into this directory EFI/OC/Resources/**Audio**
 
 
-![This is an image](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_6.png)
+![](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_6.png)
 
 
-11 - In separate folders, are also included icns for use with the Flavours system (macOS versions, Recovery, Time Machine, GNU/Linux Distros, Windows versions). There are, too; icns to change the appearance of the USB installers and Backgrounds for different display resolutions. 
+13 - In separate folders, are also included icns for use with the Flavours system (macOS versions, Recovery, Time Machine, GNU/Linux Distros, Windows versions). There are, too; icns to change the appearance of the USB installers and Backgrounds for different display resolutions. 
 
 
-![This is an image](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_2.png)
+![](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_2.png)
 
 
 Some of the backgrounds were taken from here:
