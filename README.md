@@ -32,11 +32,11 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 2 - DO A **FULL BACKUP OF YOUR EFI FOLDER**. Preferably in an external medium.
 
-3 - Download the **OpenCanopy-Theme** file under **Releases**.
+3 - Download the **CPK-OpenCanopy-Theme** file under **Releases**.
 
 4 - Unzip it.
 
-5 - Copy the extracted **canemdormienti/CPK** folder to EFI/OC/Resources/**Image**.
+5 - Copy the extracted **canemdormienti** folder to EFI/OC/Resources/**Image**.
 
 6 - It now looks like this:
 
@@ -81,7 +81,7 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 - https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-boot-chime-with-audiodxe
 
-- There is a file named **OCEFIAudio_VoiceOver_Boot.mp3** inside OpenCanopy-Theme/Resources/**Audio**, copy it and paste/replace into this directory EFI/OC/Resources/**Audio**
+- There is a file named **OCEFIAudio_VoiceOver_Boot.mp3** inside CPK-OpenCanopy-Theme/Resources/**Audio**, copy it and paste/replace into this directory EFI/OC/Resources/**Audio**
 
 
 ![](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_6.png)
