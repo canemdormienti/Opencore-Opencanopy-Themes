@@ -48,7 +48,7 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
  - /EFI/OC/Resources/Image/Acidanthera/Chardonnay
  - /EFI/OC/Resources/Image/Acidanthera/GoldenGate
  - /EFI/OC/Resources/Image/Acidanthera/Syrah
- - /EFI/OC/Resources/**Image/**canemdormienti/CPK**
+ - /EFI/OC/Resources/Image/**canemdormienti/CPK**
  
 
 
@@ -56,7 +56,7 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 
 
-9 - Copy the .icns from the extracted directory CPK/Resources/**Image/** and paste it in the newly created **CPK** folder. Those are the basic system icns for the theme to work properly.
+9 - Copy the .icns from the extracted directory CPK/Resources/**Image** and paste it in the newly created **CPK** folder. Those are the basic system icns for the theme to work properly.
 
 
 ![](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_4.png)
