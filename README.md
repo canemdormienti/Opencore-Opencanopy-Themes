@@ -87,8 +87,13 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 ![](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_6.png)
 
 
-10 - In separate folders, are also included icns for use with the Flavours system (macOS versions, Recovery, Time Machine, GNU/Linux Distros, Windows versions). There are, too; icns to change the appearance of the USB installers and Backgrounds for different display resolutions. 
+10 - In separate folders, are also included icns for use with the Flavours system:
 
+- `macOS versions`
+- `Recovery` and `Time Machine Flavours`
+- `GNU/Linux Distros`
+- `Windows versions` 
+- `Backgrounds` for different display resolutions
 
 ![](CPK/Previews-png/Desktop-Screenshots-Examples/ScreenShot_2.png)
 
