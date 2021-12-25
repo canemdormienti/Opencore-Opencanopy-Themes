@@ -8,7 +8,7 @@ This theme was designed with **Airsoft** aesthetics/elements and to work from **
 
  
 
-![](Antebellum/Screenshots/25161234.png)
+![](Opencore-Opencanopy-Themes/Antebellum/Screenshots/25161234.png)
 
 ![]
 
