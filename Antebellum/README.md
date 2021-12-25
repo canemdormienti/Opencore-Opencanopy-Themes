@@ -16,7 +16,7 @@ This theme was designed with **Airsoft** aesthetics/elements and to work from **
 
 ![](Screenshots/25161308.png)
 
-![](Screenshots/25161331.png)
+![](Screenshots/25161313.png)
 
 
 
