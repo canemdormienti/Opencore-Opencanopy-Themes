@@ -44,7 +44,7 @@ This theme was designed with **Airsoft** aesthetics/elements and to work from **
  
 
 
-![](Previews-png/Config.plist-EFI/Screen Shot 202021-12-25 20 at 2010.43.53.png)
+![](Previews-png/Config.plist-EFI/Screen Shot 2021-12-25 at 10.43.53.png)
 
 
 >> Those are the basic system .icns for the theme to work properly.
