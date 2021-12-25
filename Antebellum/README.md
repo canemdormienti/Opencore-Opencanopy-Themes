@@ -47,10 +47,13 @@ This theme was designed with **Airsoft** aesthetics/elements and to work from **
 ![](Previews-png/Config.plist-EFI/Screen%20Shot%202021-12-25%20at%2010.43.53.png)
 
 
+
 >> Those are the basic system .icns for the theme to work properly.
 
 
+
 ![](Previews-png/Config.plist-EFI/Screen%20Shot%202021-12-25%20at%2011.06.13.png)
+
 
 
 7 - Now, open your Config.plist. Search and edit this parameters:
@@ -64,6 +67,7 @@ This theme was designed with **Airsoft** aesthetics/elements and to work from **
 - PickerMode >> String >> **External**
 - PickerVariant >> String >> **canemdormienti\Antebellum**
 - ShowPicker >> Boolean >> **True**
+
 
 
 ![](Previews-png/Config.plist-EFI/Screen%20Shot%202021-12-25%20at%2010.48.49.png)
@@ -81,4 +85,6 @@ This theme was designed with **Airsoft** aesthetics/elements and to work from **
 - `Backgrounds` for different display resolutions
 
 
-  >>The COPYRIGHT and CREDITS belongs to the respective owners/designers of the logos, pictures, background images, icons and other elements used in this themes.
+ 
+ 
+ >>The COPYRIGHT and CREDITS belongs to the respective owners/designers of the logos, pictures, background images, icons and other elements used in this themes.
