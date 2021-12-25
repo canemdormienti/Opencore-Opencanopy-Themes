@@ -66,13 +66,13 @@ This theme was designed with **Airsoft** aesthetics/elements and to work from **
 - ShowPicker >> Boolean >> **True**
 
 
-![]
+![](Previews-png/Config.plist-EFI/Screen%20Shot%202021-12-25%20at%2010.48.49.png)
 
 
 8 - Save the Config.plist
 
 
-9 - In separate archives, are also included .icns for use with the Flavours system:
+9 - In separate zip archives, are also included .icns for use with the Flavours system:
 
 - `macOS versions`
 - `Recovery` and `Time Machine Flavours`
