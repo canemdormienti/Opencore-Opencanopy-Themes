@@ -12,13 +12,11 @@ This theme was designed with **Airsoft** aesthetics/elements and to work from **
 
 ![](Screenshots/25161245.png)
 
-![]
+![](Screenshots/25161251.png)
 
-![]
+![](Screenshots/25161308.png)
 
-![]
-
-![]
+![](Screenshots/25161331.png)
 
 
 
