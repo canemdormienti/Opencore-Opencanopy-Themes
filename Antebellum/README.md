@@ -50,9 +50,7 @@ This theme was designed with **Airsoft** aesthetics/elements and to work from **
 >> Those are the basic system .icns for the theme to work properly.
 
 
-![]
-
-![]
+![](Previews-png/Config.plist-EFI/Screen%20Shot%202021-12-25%20at%2011.06.13.png)
 
 
 7 - Now, open your Config.plist. Search and edit this parameters:
