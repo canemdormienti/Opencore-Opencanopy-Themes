@@ -2,9 +2,7 @@
 **THEME: Antebellum**
 
 
-This theme was designed to work from **OpenCore 0.7.3 to OpenCore 0.7.6**.
-
-https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
+This theme was designed with **Airsoft** aesthetics/elements and to work from **OpenCore 0.7.3 to OpenCore 0.7.6** (at the moment of writing this... December, 2021).
 
 
 
@@ -44,3 +42,47 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
  - /EFI/OC/Resources/Image/Acidanthera/Chardonnay
  - /EFI/OC/Resources/Image/Acidanthera/GoldenGate
  - /EFI/OC/Resources/Image/Acidanthera/Syrah
+ - /EFI/OC/Resources/Image/**canemdormienti/Antebellum**
+ 
+
+
+![]
+
+
+>> Those are the basic system .icns for the theme to work properly.
+
+
+![]
+
+![]
+
+
+7 - Now, open your Config.plist. Search and edit this parameters:
+
+**Misc** 
+    >**Boot**
+
+- LauncherOption >> String >> **Full**
+- LauncherPath >> String >> **Default**
+- PickerAttributes >> Number >> **144**
+- PickerMode >> String >> **External**
+- PickerVariant >> String >> **canemdormienti\Antebellum**
+- ShowPicker >> Boolean >> **True**
+
+
+![]
+
+
+8 - Save the Config.plist
+
+
+9 - In separate archives, are also included .icns for use with the Flavours system:
+
+- `macOS versions`
+- `Recovery` and `Time Machine Flavours`
+- `GNU/Linux Distros`
+- `Windows versions` 
+- `Backgrounds` for different display resolutions
+
+
+  >>The COPYRIGHT and CREDITS belongs to the respective owners/designers of the logos, pictures, background images, icons and other elements used in this themes.
