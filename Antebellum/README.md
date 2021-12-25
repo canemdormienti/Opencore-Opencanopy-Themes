@@ -85,6 +85,8 @@ This theme was designed with **Airsoft** aesthetics/elements and to work from **
 - `Backgrounds` for different display resolutions
 
 
+**NOTE:** The Backgrounds are NOT included in the Antebellum.zip archive, they have to be downloaded independently.
+
  
  
  >>The COPYRIGHT and CREDITS belongs to the respective owners/designers of the logos, pictures, background images, icons and other elements used in this themes.
