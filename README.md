@@ -4,7 +4,7 @@
 
 This theme is intended for **OpenCore 0.7.3 to 0.7.6** (updated to comply with the Flavours system).
 
-https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
+ - https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 
 It continues to work from **OpenCore 0.7.7 to OpenCore 0.7.9 (as of March, 2022). See NOTE below.**
@@ -77,13 +77,11 @@ It continues to work from **OpenCore 0.7.7 to OpenCore 0.7.9 (as of March, 2022)
 ![](CPK/Previews-png/Previews-Config.plist/ScreenShot_2.png)
 
 
-**NOTE >>>> (for OpenCore 0.7.7 to 0.7.9)** 
+**NOTE >>>> (for OpenCore 0.7.7 to 0.7.9)**
+
+ - https://www.insanelymac.com/forum/topic/350331-how-to-opencore-076-077-differences/
 
 **Due to some important updates made by the developers in the transition from the OpenCore version 0.7.6 to 0.7.7, now its MANDATORY to change the following in the config.plist (it is related to the UEFI audio part):**
-
-
-https://www.insanelymac.com/forum/topic/350331-how-to-opencore-076-077-differences/
-
 
 
 
@@ -94,14 +92,14 @@ https://www.insanelymac.com/forum/topic/350331-how-to-opencore-076-077-differenc
 ![](CPK/Previews-png/Previews-Config.plist/Screen%20Shot%202022-01-22%20at%2014.26.35.png)
 
 
-Those are the default values from the Sample.plist, so made the corrections accordingly to your needs.
+>> Those are the default values from the Sample.plist, so made the corrections accordingly to your needs.
 
 
 8 - Save the Config.plist
 
 9 - For those who want the Boot Chime activated:
 
-- https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-boot-chime-with-audiodxe
+ - https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-boot-chime-with-audiodxe
 
 - There is a file named **OCEFIAudio_VoiceOver_Boot.mp3** inside CPKv1.0-OpenCanopy-Theme/Resources/**Audio**, copy it and paste/replace into this directory EFI/OC/Resources/**Audio**
 
