@@ -2,12 +2,12 @@
 **THEME: CPK**
 
 
-This theme is intended for **OpenCore 0.7.3 and 0.7.4** (updated to comply with the Flavours system).
+This theme is intended for **OpenCore 0.7.3 to 0.7.6** (updated to comply with the Flavours system).
 
 https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 
-It continues to work from OpenCore 0.7.7 to OpenCore 0.7.9 (as of March, 2022). See NOTE below.
+It continues to work from **OpenCore 0.7.7 to OpenCore 0.7.9 (as of March, 2022). See NOTE below.**
 
 
  
@@ -75,6 +75,26 @@ It continues to work from OpenCore 0.7.7 to OpenCore 0.7.9 (as of March, 2022). 
 
 
 ![](CPK/Previews-png/Previews-Config.plist/ScreenShot_2.png)
+
+
+**NOTE >>>> (for OpenCore 0.7.7 to 0.7.9)** 
+
+**Due to some important updates made by the developers in the transition from the OpenCore version 0.7.6 to 0.7.7, now its MANDATORY to change the following in the config.plist (it is related to the UEFI audio part):**
+
+
+https://www.insanelymac.com/forum/topic/350331-how-to-opencore-076-077-differences/
+
+
+
+
+![]()
+
+
+
+![]()
+
+
+Those are the default values from the Sample.plist, so made the corrections accordingly to your needs.
 
 
 8 - Save the Config.plist
