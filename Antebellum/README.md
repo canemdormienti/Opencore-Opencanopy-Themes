@@ -4,6 +4,8 @@
 
 This theme was designed with **Airsoft** aesthetics/elements and to work from **OpenCore 0.7.3 to OpenCore 0.7.6** (at the moment of writing this... December, 2021).
 
+It continues to work from **OpenCore 0.7.7 to OpenCore 0.7.9** (as of March, 2022), but; due to the changes made by the developers it is MANDATORY to do some updates in the config.plist. **See NOTE below.**
+
 
 
  
@@ -56,7 +58,7 @@ This theme was designed with **Airsoft** aesthetics/elements and to work from **
 
 
 
-7 - Now, open your Config.plist. Search and edit this parameters:
+7 - Now, open your Config.plist. Search and edit this parameters: **(for OpenCore 0.7.3 to OpenCore 0.7.6)**
 
 **Misc** 
     >**Boot**
@@ -71,6 +73,12 @@ This theme was designed with **Airsoft** aesthetics/elements and to work from **
 
 
 ![](Previews-png/Config.plist-EFI/Screen%20Shot%202021-12-25%20at%2010.48.49.png)
+
+****NOTE**** 
+
+**For OpenCore 0.7.7 to 0.7.9, the developers made a number of important changes. So, for the theme to continue working it is mandatory to change the following in the config.plist:**
+
+
 
 
 8 - Save the Config.plist
