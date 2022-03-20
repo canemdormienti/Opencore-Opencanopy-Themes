@@ -87,11 +87,11 @@ https://www.insanelymac.com/forum/topic/350331-how-to-opencore-076-077-differenc
 
 
 
-![]()
+![](CPK/Previews-png/Previews-Config.plist/Screen%20Shot%202022-01-22%20at%2014.23.52.png)
 
 
 
-![]()
+![](CPK/Previews-png/Previews-Config.plist/Screen%20Shot%202022-01-22%20at%2014.26.35.png)
 
 
 Those are the default values from the Sample.plist, so made the corrections accordingly to your needs.
