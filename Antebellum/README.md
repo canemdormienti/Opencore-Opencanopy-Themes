@@ -74,7 +74,9 @@ It continues to work from **OpenCore 0.7.7 to OpenCore 0.7.9** (as of March, 202
 
 ![](Previews-png/Config.plist-EFI/Screen%20Shot%202021-12-25%20at%2010.48.49.png)
 
-**>>NOTE<< (for OpenCore 0.7.7 to 0.7.9)** 
+
+
+**>>NOTE>> (for OpenCore 0.7.7 to 0.7.9)** 
 
 **Due to some important updates made by the developers in the transition from the OpenCore version 0.7.6 to 0.7.7, now its MANDATORY to change the following in the config.plist (it is related to the UEFI audio part):**
 
@@ -86,7 +88,12 @@ https://www.insanelymac.com/forum/topic/350331-how-to-opencore-076-077-differenc
 
 ![](Previews-png/Config.plist-EFI/Screen%20Shot%202022-01-22%20at%2014.23.52.png)
 
-![]()
+
+
+![](Previews-png/Config.plist-EFI/Screen%20Shot%202022-01-22%20at%2014.26.35.png)
+
+
+Those are the default values from the Sample.plist, so made the corrections accordingly to your needs.
 
 
 8 - Save the Config.plist
