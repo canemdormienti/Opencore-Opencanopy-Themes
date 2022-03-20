@@ -7,6 +7,8 @@ This theme is intended for **OpenCore 0.7.3 and 0.7.4** (updated to comply with 
 https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Flavours.md
 
 
+It continues to work from OpenCore 0.7.7 to OpenCore 0.7.9 (as of March, 2022). See NOTE below.
+
 
  
 
